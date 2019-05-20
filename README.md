@@ -1,2 +1,1 @@
-# test-git
-Learning basic git
+# Hoc git co ban
